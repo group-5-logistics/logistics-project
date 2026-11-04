@@ -222,3 +222,7 @@ __marimo__/
 
 # Data - As requested by Dr Kazeem
 data/
+*.npz
+
+# Charts made by pipeline.py
+figures/
